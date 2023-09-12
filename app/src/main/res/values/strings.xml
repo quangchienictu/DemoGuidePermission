@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoPermisson</string>
+    <string name="enable_auto_start_permission">Find Voice Screen Lock and grant Overday permission</string>
+</resources>
